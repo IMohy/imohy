@@ -25,3 +25,8 @@ Frontend Developer with 3+ years of experience building fast, scalable, and user
 [![](https://visitcount.itsvg.in/api?id=IMohy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
+
